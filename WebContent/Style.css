@@ -1,0 +1,56 @@
+body {
+	margin: 0; 
+	padding: 0; 
+    font-family: 'Open Sans', sans-serif;
+    line-height: 20px;
+    text-align: center;
+}
+
+.wrapper {
+    position: relative;
+    overflow: auto;
+}
+
+#upper{
+	background-color: MistyRose; 
+	height: 175px; 
+	text-align: center; 
+}
+
+#main {
+	background-color: Oldlace; 
+	position: relative; 
+    padding: 100px;
+    margin: 0;
+    height: 1000px; 
+}
+
+#box {
+	background-color: pink; 
+	padding: 20px; 
+	margin-top: 20px; 
+	width: 300px; 
+	margin-left: 451px;
+	line-height: 200%; 
+}
+
+#upper h1:hover{
+	color: green; 
+}
+#upper h1 {
+    margin: 0;
+    padding: 30px;
+    color: Purple; 
+    font-size: 300%; 
+    line-height:20%;
+    
+    text-shadow: 5px 2px LightSteelBlue; 
+    
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+
